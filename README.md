@@ -22,7 +22,7 @@ Twitube is a full-stack, subscription-based video sharing platform developed usi
 
 
 ### Registration Page
-![Registration Page](https://github.com/krrish-raj-16/TwiTube/blob/main/Pictures/registration%20page.jpg)
+![Registration Page](https://github.com/Saumya101203/TwiTube/blob/main/Pictures/registration%20page.jpg)
 
 ### Login Page
 ![Login Page](https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Login%20Page.png)
